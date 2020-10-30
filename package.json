@@ -1,7 +1,7 @@
 {
-  "name": "xzqy",
+  "name": "china_region",
   "version": "1.0.0",
-  "description": "",
+  "description": "全国行政区域json文件， 包括省，市，区，县，镇，街道",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +14,13 @@
   "dependencies": {
     "axios": "^0.21.0",
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizeze/china_region.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lizeze/china_region/issues"
+  },
+  "homepage": "https://github.com/lizeze/china_region#readme"
 }
