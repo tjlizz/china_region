@@ -1,0 +1,68 @@
+[
+  {
+    "adcode": "130129100",
+    "name": "赞皇镇",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129101",
+    "name": "院头镇",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129102",
+    "name": "南邢郭镇",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129103",
+    "name": "嶂石岩镇",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129200",
+    "name": "西龙门乡",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129202",
+    "name": "南清河乡",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129203",
+    "name": "西阳泽乡",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129204",
+    "name": "土门乡",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129205",
+    "name": "黄北坪乡",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129207",
+    "name": "许亭乡",
+    "level": "street",
+    "parent": "130129"
+  },
+  {
+    "adcode": "130129208",
+    "name": "张楞乡",
+    "level": "street",
+    "parent": "130129"
+  }
+]
