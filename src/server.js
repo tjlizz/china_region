@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 96;
+const port = 9600;
 const path = require('path');
 const {readFile} = require('./tool');
 app.use(express.static('public'))
