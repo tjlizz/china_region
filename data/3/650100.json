@@ -1,1 +1,24 @@
-[{"adcode":650102,"lng":87.620116,"lat":43.796428,"name":"天山区","level":"district","parent":650100},{"adcode":650103,"lng":87.596639,"lat":43.788872,"name":"沙依巴克区","level":"district","parent":650100},{"adcode":650104,"lng":87.560653,"lat":43.870882,"name":"新市区","level":"district","parent":650100},{"adcode":650105,"lng":87.613093,"lat":43.816747,"name":"水磨沟区","level":"district","parent":650100},{"adcode":650106,"lng":87.425823,"lat":43.876053,"name":"头屯河区","level":"district","parent":650100},{"adcode":650107,"lng":88.30994,"lat":43.36181,"name":"达坂城区","level":"district","parent":650100},{"adcode":650109,"lng":87.691801,"lat":43.960982,"name":"米东区","level":"district","parent":650100},{"adcode":650121,"lng":87.505603,"lat":43.982546,"name":"乌鲁木齐县","level":"district","parent":650100}]
+[
+	{ "adcode": 650102, "lng": 87.620116, "lat": 43.796428, "name": "天山区", "level": "district", "parent": 650100 },
+	{
+		"adcode": 650103,
+		"lng": 87.596639,
+		"lat": 43.788872,
+		"name": "沙依巴克区",
+		"level": "district",
+		"parent": 650100
+	},
+	{ "adcode": 650104, "lng": 87.560653, "lat": 43.870882, "name": "新市区", "level": "district", "parent": 650100 },
+	{ "adcode": 650105, "lng": 87.613093, "lat": 43.816747, "name": "水磨沟区", "level": "district", "parent": 650100 },
+	{ "adcode": 650106, "lng": 87.425823, "lat": 43.876053, "name": "头屯河区", "level": "district", "parent": 650100 },
+	{ "adcode": 650107, "lng": 88.30994, "lat": 43.36181, "name": "达坂城区", "level": "district", "parent": 650100 },
+	{ "adcode": 650109, "lng": 87.691801, "lat": 43.960982, "name": "米东区", "level": "district", "parent": 650100 },
+	{
+		"adcode": 650121,
+		"lng": 87.505603,
+		"lat": 43.982546,
+		"name": "乌鲁木齐县",
+		"level": "district",
+		"parent": 650100
+	}
+]

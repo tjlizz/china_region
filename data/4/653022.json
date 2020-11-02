@@ -1,0 +1,79 @@
+[
+  {
+    "adcode": "653022100",
+    "name": "阿克陶镇",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022101",
+    "name": "奥依塔克镇",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022200",
+    "name": "玉麦乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022201",
+    "name": "皮拉勒乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022202",
+    "name": "巴仁乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022203",
+    "name": "喀热开其克乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022204",
+    "name": "加马铁热克乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022205",
+    "name": "木吉乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022206",
+    "name": "布伦口乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022207",
+    "name": "克孜勒陶乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022208",
+    "name": "恰尔隆乡",
+    "level": "street",
+    "parent": "653022"
+  },
+  {
+    "adcode": "653022210",
+    "name": "塔尔塔吉克族乡",
+    "level": "street",
+    "parent": "653022"
+  }
+,{
+  "adcode": "653022400",
+  "name": "托尔塔依农场",
+  "level": "street",
+  "parent": "653022"
+}]
