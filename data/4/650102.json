@@ -1,0 +1,75 @@
+[
+  {
+    "adcode": "650102002",
+    "name": "燕儿窝街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102003",
+    "name": "胜利路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102004",
+    "name": "团结路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102005",
+    "name": "解放南路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102006",
+    "name": "新华南路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102007",
+    "name": "和平路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102008",
+    "name": "解放北路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102009",
+    "name": "幸福路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102010",
+    "name": "东门街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102011",
+    "name": "新华北路街道",
+    "level": "street",
+    "parent": "650102"
+  },
+  {
+    "adcode": "650102012",
+    "name": "青年路街道",
+    "level": "street",
+    "parent": "650102"
+  }
+,{
+  "adcode": "650102013",
+  "name": "碱泉街街道",
+  "level": "street",
+  "parent": "650102"
+},{"adcode": "650102014", "name": "延安路街道", "level": "street", "parent": "650102"}, {"adcode": "650102015", "name": "红雁街道", "level": "street", "parent": "650102"
+}
+]

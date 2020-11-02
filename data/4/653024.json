@@ -1,0 +1,68 @@
+[
+  {
+    "adcode": "653024100",
+    "name": "乌恰镇",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024101",
+    "name": "康苏镇",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024200",
+    "name": "乌鲁克恰提乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024201",
+    "name": "吾合沙鲁乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024202",
+    "name": "膘尔托阔依乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024203",
+    "name": "黑孜苇乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024204",
+    "name": "托云乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024205",
+    "name": "铁列克乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024206",
+    "name": "巴音库鲁提乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024207",
+    "name": "波斯坦铁列克乡",
+    "level": "street",
+    "parent": "653024"
+  },
+  {
+    "adcode": "653024208",
+    "name": "吉根乡",
+    "level": "street",
+    "parent": "653024"
+  }
+]
