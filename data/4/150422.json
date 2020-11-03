@@ -1,0 +1,80 @@
+[
+  {
+    "adcode": "150422100",
+    "name": "林东镇",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422101",
+    "name": "隆昌镇",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422102",
+    "name": "十三敖包镇",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422103",
+    "name": "碧流台镇",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422104",
+    "name": "富河镇",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422105",
+    "name": "白音勿拉镇",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422106",
+    "name": "哈拉哈达镇",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422200",
+    "name": "查干哈达苏木",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422201",
+    "name": "乌兰达坝苏木",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422202",
+    "name": "三山乡",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422203",
+    "name": "花加拉嘎乡",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422403",
+    "name": "林东西城街道",
+    "level": "street",
+    "parent": "150422"
+  },
+  {
+    "adcode": "150422404",
+    "name": "林东东城街道",
+    "level": "street",
+    "parent": "150422"
+  }
+]

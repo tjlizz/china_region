@@ -1,0 +1,56 @@
+[
+  {
+    "adcode": "150104001",
+    "name": "大南街街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104002",
+    "name": "小召前街街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104003",
+    "name": "鄂尔多斯路街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104004",
+    "name": "兴隆巷街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104005",
+    "name": "长和廊街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104006",
+    "name": "石东路街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104007",
+    "name": "西菜园街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104009",
+    "name": "昭君路街道",
+    "level": "street",
+    "parent": "150104"
+  },
+  {
+    "adcode": "150104100",
+    "name": "小黑河镇",
+    "level": "street",
+    "parent": "150104"
+  }
+]

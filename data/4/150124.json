@@ -1,0 +1,44 @@
+[
+  {
+    "adcode": "150124100",
+    "name": "喇嘛湾镇",
+    "level": "street",
+    "parent": "150124"
+  },
+  {
+    "adcode": "150124101",
+    "name": "城关镇",
+    "level": "street",
+    "parent": "150124"
+  },
+  {
+    "adcode": "150124102",
+    "name": "宏河镇",
+    "level": "street",
+    "parent": "150124"
+  },
+  {
+    "adcode": "150124201",
+    "name": "窑沟乡",
+    "level": "street",
+    "parent": "150124"
+  },
+  {
+    "adcode": "150124202",
+    "name": "韮菜庄乡",
+    "level": "street",
+    "parent": "150124"
+  },
+  {
+    "adcode": "150124203",
+    "name": "北堡乡",
+    "level": "street",
+    "parent": "150124"
+  },
+  {
+    "adcode": "150124209",
+    "name": "五良太乡",
+    "level": "street",
+    "parent": "150124"
+  }
+]

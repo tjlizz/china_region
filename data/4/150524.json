@@ -1,0 +1,56 @@
+[
+  {
+    "adcode": "150524100",
+    "name": "库伦镇",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524101",
+    "name": "六家子镇",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524103",
+    "name": "额勒顺镇",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524104",
+    "name": "扣河子镇",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524105",
+    "name": "白音花镇",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524203",
+    "name": "茫汗苏木",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524204",
+    "name": "水泉乡",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524205",
+    "name": "先进苏木",
+    "level": "street",
+    "parent": "150524"
+  },
+  {
+    "adcode": "150524400",
+    "name": "库伦街道",
+    "level": "street",
+    "parent": "150524"
+  }
+]

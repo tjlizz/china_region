@@ -1,0 +1,49 @@
+[
+  {
+    "adcode": "150205001",
+    "name": "石拐街道",
+    "level": "street",
+    "parent": "150205"
+  },
+  {
+    "adcode": "150205002",
+    "name": "大发街道",
+    "level": "street",
+    "parent": "150205"
+  },
+  {
+    "adcode": "150205003",
+    "name": "大磁街道",
+    "level": "street",
+    "parent": "150205"
+  },
+  {
+    "adcode": "150205004",
+    "name": "五当沟街道",
+    "level": "street",
+    "parent": "150205"
+  },
+  {
+    "adcode": "150205005",
+    "name": "白狐沟街道",
+    "level": "street",
+    "parent": "150205"
+  },
+  {
+    "adcode": "150205006",
+    "name": "大德恒街道",
+    "level": "street",
+    "parent": "150205"
+  },
+  {
+    "adcode": "150205100",
+    "name": "五当召镇",
+    "level": "street",
+    "parent": "150205"
+  }
+,{
+  "adcode": "150205400",
+  "name": "工业园区管理委员会",
+  "level": "street",
+  "parent": "150205"
+}]

@@ -1,0 +1,32 @@
+[
+  {
+    "adcode": "150581001",
+    "name": "珠斯花街道",
+    "level": "street",
+    "parent": "150581"
+  },
+  {
+    "adcode": "150581002",
+    "name": "莫斯台街道",
+    "level": "street",
+    "parent": "150581"
+  },
+  {
+    "adcode": "150581003",
+    "name": "宝日呼吉尔街道",
+    "level": "street",
+    "parent": "150581"
+  },
+  {
+    "adcode": "150581005",
+    "name": "沙尔呼热街道",
+    "level": "street",
+    "parent": "150581"
+  },
+  {
+    "adcode": "150581200",
+    "name": "达来胡硕苏木",
+    "level": "street",
+    "parent": "150581"
+  }
+]

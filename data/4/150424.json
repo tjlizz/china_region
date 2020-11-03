@@ -1,1 +1,56 @@
-[{"adcode":"150424100","name":"官地镇","level":"street","parent":"150424"},{"adcode":"150424101","name":"新城子镇","level":"street","parent":"150424"},{"adcode":"150424102","name":"新林镇","level":"street","parent":"150424"},{"adcode":"150424103","name":"五十家子镇","level":"street","parent":"150424"},{"adcode":"150424104","name":"林西镇","level":"street","parent":"150424"},{"adcode":"150424105","name":"大井镇","level":"street","parent":"150424"},{"adcode":"150424106","name":"统部镇","level":"street","parent":"150424"},{"adcode":"150424200","name":"大营子乡","level":"street","parent":"150424"},{"adcode":"150424201","name":"十二吐乡","level":"street","parent":"150424"}]
+[
+  {
+    "adcode": "150424100",
+    "name": "官地镇",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424101",
+    "name": "新城子镇",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424102",
+    "name": "新林镇",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424103",
+    "name": "五十家子镇",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424104",
+    "name": "林西镇",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424105",
+    "name": "大井镇",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424106",
+    "name": "统部镇",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424200",
+    "name": "大营子乡",
+    "level": "street",
+    "parent": "150424"
+  },
+  {
+    "adcode": "150424201",
+    "name": "十二吐乡",
+    "level": "street",
+    "parent": "150424"
+  }
+]

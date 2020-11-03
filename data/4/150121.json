@@ -1,0 +1,62 @@
+[
+  {
+    "adcode": "150121100",
+    "name": "察素齐镇",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121101",
+    "name": "毕克齐镇",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121102",
+    "name": "善岱镇",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121103",
+    "name": "白庙子镇",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121104",
+    "name": "台阁牧镇",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121105",
+    "name": "沙尔沁镇",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121106",
+    "name": "敕勒川镇",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121207",
+    "name": "北什轴乡",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121208",
+    "name": "塔布赛乡",
+    "level": "street",
+    "parent": "150121"
+  },
+  {
+    "adcode": "150121402",
+    "name": "金山经济技术开发区",
+    "level": "street",
+    "parent": "150121"
+  }
+]

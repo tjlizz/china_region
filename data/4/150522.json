@@ -1,0 +1,110 @@
+[
+  {
+    "adcode": "150522101",
+    "name": "金宝屯镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522102",
+    "name": "吉尔嘎朗镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522103",
+    "name": "双胜镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522107",
+    "name": "阿古拉镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522109",
+    "name": "朝鲁吐镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522110",
+    "name": "海鲁吐镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522111",
+    "name": "甘旗卡镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522112",
+    "name": "常胜镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522113",
+    "name": "查日苏镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522136",
+    "name": "努古斯台镇",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522208",
+    "name": "阿都沁苏木",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522209",
+    "name": "茂道吐苏木",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522210",
+    "name": "巴胡塔苏木",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522211",
+    "name": "散都苏木",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522212",
+    "name": "巴彦毛都苏木",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522400",
+    "name": "胜利农场",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522401",
+    "name": "孟根达坝牧场",
+    "level": "street",
+    "parent": "150522"
+  },
+  {
+    "adcode": "150522402",
+    "name": "查金台牧场",
+    "level": "street",
+    "parent": "150522"
+  }
+]

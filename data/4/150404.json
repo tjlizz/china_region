@@ -1,0 +1,128 @@
+[
+  {
+    "adcode": "150404001",
+    "name": "振兴街道",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404002",
+    "name": "向阳街道",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404003",
+    "name": "松州街道",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404004",
+    "name": "铁东街道",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404100",
+    "name": "穆家营子镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404101",
+    "name": "初头朗镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404102",
+    "name": "大庙镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404103",
+    "name": "王府镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404104",
+    "name": "老府镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404105",
+    "name": "哈拉道口镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404106",
+    "name": "上官地镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404107",
+    "name": "安庆镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404108",
+    "name": "太平地镇",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404200",
+    "name": "当铺地满族乡",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404201",
+    "name": "夏家店乡",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404202",
+    "name": "城子乡",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404203",
+    "name": "大夫营子乡",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404204",
+    "name": "岗子乡",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404400",
+    "name": "玉龙街道",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404401",
+    "name": "全宁街道",
+    "level": "street",
+    "parent": "150404"
+  },
+  {
+    "adcode": "150404407",
+    "name": "兴安街道",
+    "level": "street",
+    "parent": "150404"
+  }
+]

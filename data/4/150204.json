@@ -1,0 +1,74 @@
+[
+  {
+    "adcode": "150204001",
+    "name": "先锋道街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204002",
+    "name": "幸福路街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204003",
+    "name": "万青路街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204004",
+    "name": "富强路街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204005",
+    "name": "科学路街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204006",
+    "name": "青山路街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204007",
+    "name": "自由路街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204008",
+    "name": "乌素图街道",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204100",
+    "name": "青福镇",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "150204101",
+    "name": "兴胜镇",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "13548999",
+    "name": "包头稀土高新区稀土路",
+    "level": "street",
+    "parent": "150204"
+  },
+  {
+    "adcode": "29385999",
+    "name": "万水泉镇",
+    "level": "street",
+    "parent": "150204"
+  }
+]

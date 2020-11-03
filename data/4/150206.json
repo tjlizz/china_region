@@ -1,0 +1,14 @@
+[
+  {
+    "adcode": "150206001",
+    "name": "矿山路街道",
+    "level": "street",
+    "parent": "150206"
+  },
+  {
+    "adcode": "150206002",
+    "name": "通阳道街道",
+    "level": "street",
+    "parent": "150206"
+  }
+]

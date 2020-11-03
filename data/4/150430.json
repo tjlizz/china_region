@@ -1,0 +1,98 @@
+[
+  {
+    "adcode": "150430100",
+    "name": "新惠镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430101",
+    "name": "四家子镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430102",
+    "name": "长胜镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430103",
+    "name": "贝子府镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430104",
+    "name": "四道湾子镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430105",
+    "name": "下洼镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430106",
+    "name": "金厂沟梁镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430107",
+    "name": "兴隆洼镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430109",
+    "name": "古鲁板蒿镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430110",
+    "name": "牛古吐镇",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430202",
+    "name": "木头营子乡",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430204",
+    "name": "丰收乡",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430205",
+    "name": "玛尼罕乡",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430206",
+    "name": "萨力巴乡",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430207",
+    "name": "敖润苏莫苏木",
+    "level": "street",
+    "parent": "150430"
+  },
+  {
+    "adcode": "150430400",
+    "name": "国营种羊场",
+    "level": "street",
+    "parent": "150430"
+  }
+]

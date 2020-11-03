@@ -1,0 +1,62 @@
+[
+  {
+    "adcode": "150102001",
+    "name": "海拉尔东路街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102002",
+    "name": "锡林北路街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102003",
+    "name": "中山东路街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102004",
+    "name": "东街街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102005",
+    "name": "西街街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102006",
+    "name": "东风路街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102007",
+    "name": "迎新路街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102008",
+    "name": "成吉思汗大街街道",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102101",
+    "name": "保合少镇",
+    "level": "street",
+    "parent": "150102"
+  },
+  {
+    "adcode": "150102400",
+    "name": "新城区鸿盛高科技园区",
+    "level": "street",
+    "parent": "150102"
+  }
+]

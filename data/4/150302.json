@@ -1,0 +1,43 @@
+[
+  {
+    "adcode": "150302001",
+    "name": "新华街道",
+    "level": "street",
+    "parent": "150302"
+  },
+  {
+    "adcode": "150302002",
+    "name": "新华西街道",
+    "level": "street",
+    "parent": "150302"
+  },
+  {
+    "adcode": "150302003",
+    "name": "凤凰岭街道",
+    "level": "street",
+    "parent": "150302"
+  },
+  {
+    "adcode": "150302004",
+    "name": "海北街道",
+    "level": "street",
+    "parent": "150302"
+  },
+  {
+    "adcode": "150302005",
+    "name": "滨河街道",
+    "level": "street",
+    "parent": "150302"
+  },
+  {
+    "adcode": "150302006",
+    "name": "卡布其街道",
+    "level": "street",
+    "parent": "150302"
+  }
+,{
+  "adcode": "150302108",
+  "name": "千里山镇",
+  "level": "street",
+  "parent": "150302"
+}]

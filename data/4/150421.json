@@ -1,0 +1,86 @@
+[
+  {
+    "adcode": "150421100",
+    "name": "天山镇",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421101",
+    "name": "天山口镇",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421102",
+    "name": "双胜镇",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421103",
+    "name": "坤都镇",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421104",
+    "name": "巴彦花镇",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421105",
+    "name": "绍根镇",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421106",
+    "name": "扎嘎斯台镇",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421200",
+    "name": "新民乡",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421201",
+    "name": "先锋乡",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421202",
+    "name": "罕苏木苏木",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421203",
+    "name": "赛汉塔拉苏木",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421204",
+    "name": "巴拉奇如德苏木",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421205",
+    "name": "巴彦温都苏木",
+    "level": "street",
+    "parent": "150421"
+  },
+  {
+    "adcode": "150421206",
+    "name": "乌兰哈达乡",
+    "level": "street",
+    "parent": "150421"
+  }
+]

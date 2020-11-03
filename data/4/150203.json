@@ -1,0 +1,98 @@
+[
+  {
+    "adcode": "150203001",
+    "name": "少先路街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203002",
+    "name": "昆北街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203003",
+    "name": "沼潭街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203004",
+    "name": "林荫路街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203005",
+    "name": "友谊大街街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203006",
+    "name": "阿尔丁大街街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203007",
+    "name": "团结大街街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203008",
+    "name": "鞍山道街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203009",
+    "name": "前进道街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203010",
+    "name": "市府东路街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203011",
+    "name": "白云路街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203012",
+    "name": "黄河西路街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203013",
+    "name": "昆工路街道",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203100",
+    "name": "昆河镇",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203101",
+    "name": "卜尔汉图镇",
+    "level": "street",
+    "parent": "150203"
+  },
+  {
+    "adcode": "150203400",
+    "name": "包钢集团公司厂区",
+    "level": "street",
+    "parent": "150203"
+  }
+]

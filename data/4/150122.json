@@ -1,0 +1,32 @@
+[
+  {
+    "adcode": "150122100",
+    "name": "双河镇",
+    "level": "street",
+    "parent": "150122"
+  },
+  {
+    "adcode": "150122101",
+    "name": "新营子镇",
+    "level": "street",
+    "parent": "150122"
+  },
+  {
+    "adcode": "150122102",
+    "name": "五申镇",
+    "level": "street",
+    "parent": "150122"
+  },
+  {
+    "adcode": "150122103",
+    "name": "古城镇",
+    "level": "street",
+    "parent": "150122"
+  },
+  {
+    "adcode": "150122104",
+    "name": "伍什家镇",
+    "level": "street",
+    "parent": "150122"
+  }
+]

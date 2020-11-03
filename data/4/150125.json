@@ -1,0 +1,62 @@
+[
+  {
+    "adcode": "150125100",
+    "name": "可可以力更镇",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125101",
+    "name": "哈乐镇",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125102",
+    "name": "西乌兰不浪镇",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125200",
+    "name": "大青山乡",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125205",
+    "name": "上秃亥乡",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125207",
+    "name": "德胜沟乡",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125213",
+    "name": "哈拉合少乡",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125214",
+    "name": "二份子乡",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125215",
+    "name": "耗赖山乡",
+    "level": "street",
+    "parent": "150125"
+  },
+  {
+    "adcode": "150125402",
+    "name": "武川经济开发区",
+    "level": "street",
+    "parent": "150125"
+  }
+]

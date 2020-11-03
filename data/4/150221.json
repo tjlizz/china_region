@@ -1,0 +1,56 @@
+[
+  {
+    "adcode": "150221100",
+    "name": "萨拉齐镇",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221101",
+    "name": "双龙镇",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221102",
+    "name": "美岱召镇",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221103",
+    "name": "沟门镇",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221104",
+    "name": "将军尧镇",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221202",
+    "name": "明沙淖乡",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221203",
+    "name": "海子乡",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221212",
+    "name": "苏波盖乡",
+    "level": "street",
+    "parent": "150221"
+  },
+  {
+    "adcode": "150221400",
+    "name": "九峰山生态管理委员会",
+    "level": "street",
+    "parent": "150221"
+  }
+]

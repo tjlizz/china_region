@@ -1,0 +1,50 @@
+[
+  {
+    "adcode": "150123100",
+    "name": "城关镇",
+    "level": "street",
+    "parent": "150123"
+  },
+  {
+    "adcode": "150123101",
+    "name": "盛乐镇",
+    "level": "street",
+    "parent": "150123"
+  },
+  {
+    "adcode": "150123102",
+    "name": "新店子镇",
+    "level": "street",
+    "parent": "150123"
+  },
+  {
+    "adcode": "150123103",
+    "name": "巧什营镇",
+    "level": "street",
+    "parent": "150123"
+  },
+  {
+    "adcode": "150123203",
+    "name": "舍必崖乡",
+    "level": "street",
+    "parent": "150123"
+  },
+  {
+    "adcode": "150123205",
+    "name": "大红城乡",
+    "level": "street",
+    "parent": "150123"
+  },
+  {
+    "adcode": "150123206",
+    "name": "羊群沟乡",
+    "level": "street",
+    "parent": "150123"
+  },
+  {
+    "adcode": "150123207",
+    "name": "黑老夭乡",
+    "level": "street",
+    "parent": "150123"
+  }
+]
