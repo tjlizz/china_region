@@ -1,0 +1,92 @@
+[
+  {
+    "adcode": "150426100",
+    "name": "乌丹镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426101",
+    "name": "乌敦套海镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426102",
+    "name": "五分地镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426103",
+    "name": "桥头镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426104",
+    "name": "广德公镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426105",
+    "name": "梧桐花镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426106",
+    "name": "海拉苏镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426107",
+    "name": "亿合公镇",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426200",
+    "name": "解放营子乡",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426201",
+    "name": "阿什罕苏木",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426202",
+    "name": "新苏莫苏木",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426203",
+    "name": "白音套海苏木",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426204",
+    "name": "毛山东乡",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426205",
+    "name": "格日僧苏木",
+    "level": "street",
+    "parent": "150426"
+  },
+  {
+    "adcode": "150426400",
+    "name": "大兴农场",
+    "level": "street",
+    "parent": "150426"
+  }
+]

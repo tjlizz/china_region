@@ -1,0 +1,92 @@
+[
+  {
+    "adcode": "150429100",
+    "name": "天义镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429101",
+    "name": "小城子镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429102",
+    "name": "大城子镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429103",
+    "name": "八里罕镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429104",
+    "name": "黑里河镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429105",
+    "name": "甸子镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429106",
+    "name": "大双庙镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429107",
+    "name": "汐子镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429108",
+    "name": "大明镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429109",
+    "name": "忙农镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429110",
+    "name": "五化镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429111",
+    "name": "必斯营子镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429112",
+    "name": "三座店镇",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429202",
+    "name": "一肯中乡",
+    "level": "street",
+    "parent": "150429"
+  },
+  {
+    "adcode": "150429203",
+    "name": "存金沟乡",
+    "level": "street",
+    "parent": "150429"
+  }
+]

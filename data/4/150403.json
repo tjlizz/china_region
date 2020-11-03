@@ -1,0 +1,67 @@
+[
+  {
+    "adcode": "150403001",
+    "name": "西露天街道",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403002",
+    "name": "平庄城区街道",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403003",
+    "name": "平庄东城街道",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403004",
+    "name": "平庄西城街道",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403005",
+    "name": "云杉路街道",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403006",
+    "name": "马林街道",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403100",
+    "name": "风水沟镇",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403101",
+    "name": "元宝山镇",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403102",
+    "name": "美丽河镇",
+    "level": "street",
+    "parent": "150403"
+  },
+  {
+    "adcode": "150403103",
+    "name": "平庄镇",
+    "level": "street",
+    "parent": "150403"
+  }
+,{
+  "adcode": "150403104",
+  "name": "五家镇",
+  "level": "street",
+  "parent": "150403"
+}]

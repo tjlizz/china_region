@@ -1,0 +1,92 @@
+[
+  {
+    "adcode": "150525100",
+    "name": "大沁他拉镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525101",
+    "name": "八仙筒镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525102",
+    "name": "青龙山镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525103",
+    "name": "东明镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525104",
+    "name": "治安镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525105",
+    "name": "义隆永镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525106",
+    "name": "新镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525109",
+    "name": "沙日浩来镇",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525201",
+    "name": "黄花塔拉苏木",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525202",
+    "name": "固日班花苏木",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525203",
+    "name": "白音他拉苏木",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525205",
+    "name": "明仁苏木",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525206",
+    "name": "土城子乡",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525207",
+    "name": "苇莲苏乡",
+    "level": "street",
+    "parent": "150525"
+  },
+  {
+    "adcode": "150525400",
+    "name": "六号农场",
+    "level": "street",
+    "parent": "150525"
+  }
+]

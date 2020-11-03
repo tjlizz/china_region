@@ -1,0 +1,44 @@
+[
+  {
+    "adcode": "150304001",
+    "name": "巴音赛街道",
+    "level": "street",
+    "parent": "150304"
+  },
+  {
+    "adcode": "150304002",
+    "name": "三道坎街道",
+    "level": "street",
+    "parent": "150304"
+  },
+  {
+    "adcode": "150304003",
+    "name": "五虎山街道",
+    "level": "street",
+    "parent": "150304"
+  },
+  {
+    "adcode": "150304004",
+    "name": "梁家沟街道",
+    "level": "street",
+    "parent": "150304"
+  },
+  {
+    "adcode": "150304005",
+    "name": "新达街道",
+    "level": "street",
+    "parent": "150304"
+  },
+  {
+    "adcode": "150304006",
+    "name": "滨海街道",
+    "level": "street",
+    "parent": "150304"
+  },
+  {
+    "adcode": "150304007",
+    "name": "苏海图街道",
+    "level": "street",
+    "parent": "150304"
+  }
+]

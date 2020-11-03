@@ -1,0 +1,80 @@
+[
+  {
+    "adcode": "150425100",
+    "name": "经棚镇",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425102",
+    "name": "宇宙地镇",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425103",
+    "name": "土城子镇",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425104",
+    "name": "达来诺日镇",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425105",
+    "name": "同兴镇",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425106",
+    "name": "万合永镇",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425108",
+    "name": "芝瑞镇",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425208",
+    "name": "新开地乡",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425214",
+    "name": "红山子乡",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425219",
+    "name": "达日罕乌拉苏木",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425221",
+    "name": "巴彦查干苏木",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425400",
+    "name": "浩来呼热街道筹备处",
+    "level": "street",
+    "parent": "150425"
+  },
+  {
+    "adcode": "150425401",
+    "name": "乌兰布统旅游开发区",
+    "level": "street",
+    "parent": "150425"
+  }
+]

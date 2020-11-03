@@ -1,0 +1,80 @@
+[
+  {
+    "adcode": "150523100",
+    "name": "开鲁镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523103",
+    "name": "大榆树镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523104",
+    "name": "黑龙坝镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523105",
+    "name": "麦新镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523108",
+    "name": "建华镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523109",
+    "name": "小街基镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523111",
+    "name": "东风镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523112",
+    "name": "吉日嘎郎吐镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523113",
+    "name": "东来镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523114",
+    "name": "义和塔拉镇",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523400",
+    "name": "清河牧场",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523401",
+    "name": "辽河农场",
+    "level": "street",
+    "parent": "150523"
+  },
+  {
+    "adcode": "150523402",
+    "name": "保安农场",
+    "level": "street",
+    "parent": "150523"
+  }
+]
