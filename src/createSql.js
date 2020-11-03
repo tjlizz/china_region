@@ -1,12 +1,18 @@
 const path = require('path');
 const fs = require('fs');
-const { readFile } = require('./tool');
-let filePath = path.relative('./data/1');
-readFile(filePath).then((data) => {
-	console.log(data);
+const { readFile, sqlObj } = require('./tool');
+fileDisplay('./data/1');
+
+fs.stat(path, (err, stats) => {
+	if (err) {
+		resolve(false);
+	} else {
+		resolve(stats);
+	}
 });
 
-function fileDisplay(filePath) {
+function fileDisplay(filePath, level) {
+	console.log(filePath, 'filePath');
 	fs.readdir(filePath, function (err, files) {
 		if (err) {
 		} else {
@@ -21,25 +27,10 @@ function fileDisplay(filePath) {
 					} else {
 						var isFile = stats.isFile(); //是文件
 						var isDir = stats.isDirectory(); //是文件夹
-						if (isFile && filedir.indexOf('json') > -1) {
-							fs.readFile(filedir, function (err, data) {
-								if (err) {
-									return console.error(err);
-								}
-
-								let result = [];
-								for (let index = 0; index < data.length; index++) {
-									const element = data[index];
-									result.push({
-										adcode: element.id,
-										name: element.name,
-										level: 'street',
-										parent: element.fid,
-									});
-									fs.writeFile(`./data/ali/6/${data[0].fid}.json`, JSON.stringify(result), function (
-										err
-									) {});
-								}
+						if (isFile) {
+							readFile(filedir).then((data) => {
+								const sqlText = createSqlText(data);
+								fs.writeFile(`./dist/${level}.sql`, sqlText, function (err) {});
 							});
 						}
 						if (isDir) {
@@ -51,3 +42,11 @@ function fileDisplay(filePath) {
 		}
 	});
 }
+
+let createSqlText = (array) => {
+	let sqlText = '';
+	array.forEach((item) => {
+		sqlText += `insert into  ${sqlObj.tableName} (${sqlObj.id},${sqlObj.name},${sqlObj.level},${sqlObj.parent}) value ('${item.adcode}','${item.name}','${item.level}','${item.parent}');\n`;
+	});
+	return sqlText;
+};

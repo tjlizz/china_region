@@ -13,6 +13,16 @@ function readFile(filePath) {
 		});
 	});
 }
+
+let sqlObj = {
+	tableName: 'table1',
+	id: 'id',
+	name: 'name',
+	level: 'level',
+	parent: 'parent',
+};
+
 module.exports = {
 	readFile,
+	sqlObj
 };
