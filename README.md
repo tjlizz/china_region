@@ -44,6 +44,31 @@ data
 | fid  | 请求数据的父节点 |
 # 生成sql文件
 
+``` 
+ $ npm run sql     #全部数据生成sql
+
+ $ npm run sql 1   #生成省级sql
+
+ $ npm run sql 2   #生成市级sql
+
+ $ npm run sql 3   #生成县级sql
+
+ $ npm run sql 4   #生成街道sql
+
+```
+
+修改`sql`字段名称
+
+`./src/tool.js`
+ ``` javascript
+ let sqlObj = {
+    tableName: 'table1',
+    id: 'id',
+    name: 'name',
+    level: 'level',
+    parent: 'parent',
+};
+ ```
 
  # 历史
 
