@@ -45,7 +45,7 @@ main();
 let createSqlText = (array) => {
     let sqlText = '';
     array.forEach((item) => {
-        sqlText += `insert into  ${sqlObj.tableName} (${sqlObj.id},${sqlObj.name},${sqlObj.level},${sqlObj.parent}) value ('${item.adcode}','${item.name}','${item.level}','${item.parent}');\n`;
+        sqlText += `insert into  ${sqlObj.tableName} (${sqlObj.id},${sqlObj.name},${sqlObj.level},${sqlObj.parent}) values ('${item.adcode}','${item.name}','${item.level}','${item.parent}');\n`;
     });
     return sqlText;
 };
