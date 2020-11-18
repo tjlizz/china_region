@@ -1,0 +1,10 @@
+[
+	{ "adcode": "440305001", "name": "南头街道", "level": "street", "parent": "440305" },
+	{ "adcode": "440305002", "name": "南山街道", "level": "street", "parent": "440305" },
+	{ "adcode": "440305003", "name": "沙河街道", "level": "street", "parent": "440305" },
+	{ "adcode": "440305005", "name": "蛇口街道", "level": "street", "parent": "440305" },
+	{ "adcode": "440305006", "name": "招商街道", "level": "street", "parent": "440305" },
+	{ "adcode": "440305007", "name": "粤海街道", "level": "street", "parent": "440305" },
+	{ "adcode": "440305008", "name": "桃源街道", "level": "street", "parent": "440305" },
+	{ "adcode": "440305009", "name": "西丽街道", "level": "street", "parent": "440305" }
+]

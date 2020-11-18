@@ -1,0 +1,12 @@
+[
+	{ "adcode": "640181001", "name": "城区街道", "level": "street", "parent": "640181" },
+	{ "adcode": "640181100", "name": "东塔镇", "level": "street", "parent": "640181" },
+	{ "adcode": "640181101", "name": "郝家桥镇", "level": "street", "parent": "640181" },
+	{ "adcode": "640181102", "name": "崇兴镇", "level": "street", "parent": "640181" },
+	{ "adcode": "640181103", "name": "宁东镇", "level": "street", "parent": "640181" },
+	{ "adcode": "640181104", "name": "马家滩镇", "level": "street", "parent": "640181" },
+	{ "adcode": "640181105", "name": "临河镇", "level": "street", "parent": "640181" },
+	{ "adcode": "640181200", "name": "梧桐树乡", "level": "street", "parent": "640181" },
+	{ "adcode": "640181201", "name": "白土岗乡", "level": "street", "parent": "640181" },
+	{ "adcode": "640181400", "name": "灵武农场", "level": "street", "parent": "640181" }
+]

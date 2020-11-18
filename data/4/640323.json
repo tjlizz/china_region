@@ -1,0 +1,10 @@
+[
+	{ "adcode": "640323100", "name": "花马池镇", "level": "street", "parent": "640323" },
+	{ "adcode": "640323101", "name": "大水坑镇", "level": "street", "parent": "640323" },
+	{ "adcode": "640323102", "name": "惠安堡镇", "level": "street", "parent": "640323" },
+	{ "adcode": "640323103", "name": "高沙窝镇", "level": "street", "parent": "640323" },
+	{ "adcode": "640323200", "name": "王乐井乡", "level": "street", "parent": "640323" },
+	{ "adcode": "640323201", "name": "冯记沟乡", "level": "street", "parent": "640323" },
+	{ "adcode": "640323202", "name": "青山乡", "level": "street", "parent": "640323" },
+	{ "adcode": "640323203", "name": "麻黄山乡", "level": "street", "parent": "640323" }
+]

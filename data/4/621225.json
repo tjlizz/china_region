@@ -1,0 +1,22 @@
+[
+	{ "adcode": "621225100", "name": "汉源镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225101", "name": "长道镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225102", "name": "姜席镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225103", "name": "石峡镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225104", "name": "何坝镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225105", "name": "洛峪镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225106", "name": "马元镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225107", "name": "大桥镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225108", "name": "西峪镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225109", "name": "十里镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225110", "name": "石堡镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225111", "name": "兴隆镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225112", "name": "苏合镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225113", "name": "稍峪镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225114", "name": "卢河镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225115", "name": "西高山镇", "level": "street", "parent": "621225" },
+	{ "adcode": "621225206", "name": "晒经乡", "level": "street", "parent": "621225" },
+	{ "adcode": "621225208", "name": "六巷乡", "level": "street", "parent": "621225" },
+	{ "adcode": "621225209", "name": "太石河乡", "level": "street", "parent": "621225" },
+	{ "adcode": "621225210", "name": "蒿林乡", "level": "street", "parent": "621225" }
+]
