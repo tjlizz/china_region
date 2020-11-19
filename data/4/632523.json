@@ -1,0 +1,9 @@
+[
+	{ "adcode": "632523101", "name": "河阴镇", "level": "street", "parent": "632523" },
+	{ "adcode": "632523102", "name": "河西镇", "level": "street", "parent": "632523" },
+	{ "adcode": "632523103", "name": "拉西瓦镇", "level": "street", "parent": "632523" },
+	{ "adcode": "632523104", "name": "常牧镇", "level": "street", "parent": "632523" },
+	{ "adcode": "632523201", "name": "河东乡", "level": "street", "parent": "632523" },
+	{ "adcode": "632523203", "name": "尕让乡", "level": "street", "parent": "632523" },
+	{ "adcode": "632523204", "name": "新街回族乡", "level": "street", "parent": "632523" }
+]
