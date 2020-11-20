@@ -69,12 +69,12 @@ data
     parent: 'parent',
 };
  ```
-# 其他语言（维护中）
+# 其他语言
  * [java](https://github.com/lizeze/china_region_java_api)
  
- * Ruby
- * Python
- * C#
+ * Ruby (开发中)
+ * Python (开发中)
+ * C# (开发中)
   
   
   
