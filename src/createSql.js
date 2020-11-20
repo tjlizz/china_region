@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 const { readFile, sqlObj, dirExists } = require('./tool');
-
+const Guid = require('guid');
 let fileDisplay = (filePath, level) => {
 	fs.readdir(filePath, async function (err, files) {
 		if (err) {
@@ -48,7 +48,9 @@ main();
 let createSqlText = (array) => {
 	let sqlText = '';
 	array.forEach((item) => {
-		sqlText += `insert into  ${sqlObj.tableName} (${sqlObj.id},${sqlObj.name},${sqlObj.level},${sqlObj.parent}) values ('${item.adcode}','${item.name}','${item.level}','${item.parent}');\n`;
+		sqlText += `insert into  ${sqlObj.tableName} (${sqlObj.key},${sqlObj.code},${sqlObj.name},${sqlObj.level},${
+			sqlObj.parent
+		}) values ('${ Guid.create().value}', '${item.adcode}','${item.name}','${item.level}','${item.parent}');\n`;
 	});
 	return sqlText;
 };
