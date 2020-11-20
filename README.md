@@ -70,7 +70,8 @@ data
 };
  ```
 # 其他语言（维护中）
- * Java
+ * [java](https://github.com/lizeze/china_region_java_api)
+ 
  * Ruby
  * Python
  * C#
