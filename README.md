@@ -12,12 +12,14 @@ data
 │  ├─2
 │  ├─3
 │  └─4
+│  └─5
 ```
 
 * 1 省
 * 2 市
 * 3 区/县
 * 4 镇/街道
+* 5 邮政编码/电话区号
 
 根据层级结构保存在不同的文件夹中，文件的命名都是上级区域的id。
 
@@ -54,6 +56,8 @@ data
  $ npm run sql 3   #生成县级sql
 
  $ npm run sql 4   #生成街道sql
+ 
+ $ npm run postcode # 生成邮政编码数据sql
 
 ```
 
@@ -68,6 +72,15 @@ data
     level: 'level',
     parent: 'parent',
 };
+ ```
+
+修改`postCode`表名称
+`./src/tool.js`
+ ``` javascript
+ let postCodeSqlObj = {
+     tableName: 'postCode'
+ };
+
  ```
 # 其他语言
  * [java](https://github.com/lizeze/china_region_java_api)
