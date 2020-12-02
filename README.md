@@ -27,9 +27,11 @@ data
 
  # 启动项目
 
-  下载代码到本机
+  下载代码到本机(二选一即可)
   ```shell
   $ git clone https://github.com/lizeze/china_region.git
+
+  $ git clone https://gitee.com/zeze.li/china_region.git
   ```
   安装依赖
 
