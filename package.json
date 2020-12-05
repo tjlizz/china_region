@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node  src/server.js",
-    "sql": "node src/createSql.js"
+    "sql": "node src/createSql.js",
+    "postcode": "node src/postCode.js"
   },
   "keywords": [],
   "author": "",
