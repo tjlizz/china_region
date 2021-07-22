@@ -1,6 +1,6 @@
 # 简介
 
-全国行政区域json文件， 包括省，市，区，县，镇，街道
+行政区域json文件， 包括省，市，区，县，镇，街道
 
 数据持续更新中。。。
 
@@ -87,11 +87,7 @@ data
 # 其他语言
  * [java](https://github.com/lizeze/china_region_java_api)
  
- * Ruby (开发中)
- * Python (开发中)
- * C# (开发中)
-  
-  
+
   
   
   
